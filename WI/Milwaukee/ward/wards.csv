@@ -1,0 +1,571 @@
+name,muni,ward_id,normalized_name,warning,election_day_registered,ballots_cast,nov_1_registered
+Village of Bayside - Ward 1,05450,1,village of bayside ward 1,"WARNING: Combined in results: Village of Bayside Wards 1,3, combined results: 1057",711,629,721
+Village of Bayside - Ward 1S,05450,1S,village of bayside ward 1s,"WARNING: Combined in results: Village of Bayside Wards 1S,3S, combined results: 72",31,31,31
+Village of Bayside - Ward 2,05450,2,village of bayside ward 2,"WARNING: Combined in results: Village of Bayside Wards 2,4, combined results: 1263",525,476,526
+Village of Bayside - Ward 3,05450,3,village of bayside ward 3,"WARNING: Combined in results: Village of Bayside Wards 1,3, combined results: 1057",483,428,490
+Village of Bayside - Ward 3S,05450,3S,village of bayside ward 3s,"WARNING: Combined in results: Village of Bayside Wards 1S,3S, combined results: 72",42,41,42
+Village of Bayside - Ward 4,05450,4,village of bayside ward 4,"WARNING: Combined in results: Village of Bayside Wards 2,4, combined results: 1263",868,787,869
+Village of Bayside - Ward 5,05450,5,village of bayside ward 5,,769,712,768
+Village of Bayside - Ward 6,,,village of bayside ward 6,Not reported in results,,,94
+Village of Brown Deer - Ward 1,10375,1,village of brown deer ward 1,"WARNING: Combined in results: Village of Brown Deer Wards 1,2, combined results: 2498",1261,1122,1280
+Village of Brown Deer - Ward 2,10375,2,village of brown deer ward 2,"WARNING: Combined in results: Village of Brown Deer Wards 1,2, combined results: 2498",1546,1376,1569
+Village of Brown Deer - Ward 3,10375,3,village of brown deer ward 3,"WARNING: Combined in results: Village of Brown Deer Wards 3,4, combined results: 2495",1116,1019,1133
+Village of Brown Deer - Ward 4,10375,4,village of brown deer ward 4,"WARNING: Combined in results: Village of Brown Deer Wards 3,4, combined results: 2495",1615,1476,1640
+Village of Brown Deer - Ward 5,10375,5,village of brown deer ward 5,"WARNING: Combined in results: Village of Brown Deer Wards 5,6, combined results: 2483",1296,1176,1323
+Village of Brown Deer - Ward 6,10375,6,village of brown deer ward 6,"WARNING: Combined in results: Village of Brown Deer Wards 5,6, combined results: 2483",1441,1307,1471
+Village of Fox Point - Ward 1,27075,1,village of fox point ward 1,"WARNING: Combined in results: Village of Fox Point Wards 1,2,3,4, combined results: 2210",562,515,566
+Village of Fox Point - Ward 2,27075,2,village of fox point ward 2,"WARNING: Combined in results: Village of Fox Point Wards 1,2,3,4, combined results: 2210",636,582,640
+Village of Fox Point - Ward 3,27075,3,village of fox point ward 3,"WARNING: Combined in results: Village of Fox Point Wards 1,2,3,4, combined results: 2210",714,654,719
+Village of Fox Point - Ward 4,27075,4,village of fox point ward 4,"WARNING: Combined in results: Village of Fox Point Wards 1,2,3,4, combined results: 2210",501,459,504
+Village of Fox Point - Ward 5,27075,5,village of fox point ward 5,"WARNING: Combined in results: Village of Fox Point Wards 5,6,7,8,9, combined results: 2793",608,562,611
+Village of Fox Point - Ward 6,27075,6,village of fox point ward 6,"WARNING: Combined in results: Village of Fox Point Wards 5,6,7,8,9, combined results: 2793",545,504,548
+Village of Fox Point - Ward 7,27075,7,village of fox point ward 7,"WARNING: Combined in results: Village of Fox Point Wards 5,6,7,8,9, combined results: 2793",626,579,629
+Village of Fox Point - Ward 8,27075,8,village of fox point ward 8,"WARNING: Combined in results: Village of Fox Point Wards 5,6,7,8,9, combined results: 2793",624,577,627
+Village of Fox Point - Ward 9,27075,9,village of fox point ward 9,"WARNING: Combined in results: Village of Fox Point Wards 5,6,7,8,9, combined results: 2793",618,571,621
+Village of Greendale - Ward 1,31125,1,village of greendale ward 1,"WARNING: Combined in results: Village of Greendale Wards 1,2, combined results: 1768",942,879,951
+Village of Greendale - Ward 10,31125,10,village of greendale ward 10,"WARNING: Combined in results: Village of Greendale Wards 9,10, combined results: 2135",980,903,991
+Village of Greendale - Ward 2,31125,2,village of greendale ward 2,"WARNING: Combined in results: Village of Greendale Wards 1,2, combined results: 1768",952,889,962
+Village of Greendale - Ward 3,31125,3,village of greendale ward 3,"WARNING: Combined in results: Village of Greendale Wards 3,4, combined results: 2009",1072,988,1089
+Village of Greendale - Ward 4,31125,4,village of greendale ward 4,"WARNING: Combined in results: Village of Greendale Wards 3,4, combined results: 2009",1108,1021,1126
+Village of Greendale - Ward 5,31125,5,village of greendale ward 5,"WARNING: Combined in results: Village of Greendale Wards 5,6, combined results: 1784",1051,972,1066
+Village of Greendale - Ward 6,31125,6,village of greendale ward 6,"WARNING: Combined in results: Village of Greendale Wards 5,6, combined results: 1784",878,812,890
+Village of Greendale - Ward 7,31125,7,village of greendale ward 7,"WARNING: Combined in results: Village of Greendale Wards 7,8, combined results: 1762",868,800,878
+Village of Greendale - Ward 8,31125,8,village of greendale ward 8,"WARNING: Combined in results: Village of Greendale Wards 7,8, combined results: 1762",1044,962,1055
+Village of Greendale - Ward 9,31125,9,village of greendale ward 9,"WARNING: Combined in results: Village of Greendale Wards 9,10, combined results: 2135",1339,1232,1353
+Village of Hales Corners - Ward 1,32075,1,village of hales corners ward 1,"WARNING: Combined in results: Village of Hales Corners Wards 1,2,3, combined results: 1641",703,641,709
+Village of Hales Corners - Ward 2,32075,2,village of hales corners ward 2,"WARNING: Combined in results: Village of Hales Corners Wards 1,2,3, combined results: 1641",597,544,602
+Village of Hales Corners - Ward 3,32075,3,village of hales corners ward 3,"WARNING: Combined in results: Village of Hales Corners Wards 1,2,3, combined results: 1641",501,456,505
+Village of Hales Corners - Ward 4,32075,4,village of hales corners ward 4,"WARNING: Combined in results: Village of Hales Corners Wards 4,5,6, combined results: 1610",583,532,589
+Village of Hales Corners - Ward 5,32075,5,village of hales corners ward 5,"WARNING: Combined in results: Village of Hales Corners Wards 4,5,6, combined results: 1610",681,621,688
+Village of Hales Corners - Ward 6,32075,6,village of hales corners ward 6,"WARNING: Combined in results: Village of Hales Corners Wards 4,5,6, combined results: 1610",501,457,506
+Village of Hales Corners - Ward 7,32075,7,village of hales corners ward 7,"WARNING: Combined in results: Village of Hales Corners Wards 7,8,9, combined results: 1559",574,544,586
+Village of Hales Corners - Ward 8,32075,8,village of hales corners ward 8,"WARNING: Combined in results: Village of Hales Corners Wards 7,8,9, combined results: 1559",623,591,636
+Village of Hales Corners - Ward 9,32075,9,village of hales corners ward 9,"WARNING: Combined in results: Village of Hales Corners Wards 7,8,9, combined results: 1559",448,424,457
+Village of River Hills - Ward 1,68325,1,village of river hills ward 1,"WARNING: Combined in results: Village of River Hills Wards 1,2,3, combined results: 1266",25,169,185
+Village of River Hills - Ward 2,68325,2,village of river hills ward 2,"WARNING: Combined in results: Village of River Hills Wards 1,2,3, combined results: 1266",85,579,635
+Village of River Hills - Ward 3,68325,3,village of river hills ward 3,"WARNING: Combined in results: Village of River Hills Wards 1,2,3, combined results: 1266",76,519,569
+Village of Shorewood - Ward 1,73725,1,village of shorewood ward 1,"WARNING: Combined in results: Village of Shorewood Wards 1,2,3,4, combined results: 3519",661,597,672
+Village of Shorewood - Ward 10,73725,10,village of shorewood ward 10,"WARNING: Combined in results: Village of Shorewood Wards 9,10,11,12, combined results: 2853",736,671,745
+Village of Shorewood - Ward 11,73725,11,village of shorewood ward 11,"WARNING: Combined in results: Village of Shorewood Wards 9,10,11,12, combined results: 2853",650,592,658
+Village of Shorewood - Ward 12,73725,12,village of shorewood ward 12,"WARNING: Combined in results: Village of Shorewood Wards 9,10,11,12, combined results: 2853",883,805,894
+Village of Shorewood - Ward 2,73725,2,village of shorewood ward 2,"WARNING: Combined in results: Village of Shorewood Wards 1,2,3,4, combined results: 3519",1044,942,1061
+Village of Shorewood - Ward 3,73725,3,village of shorewood ward 3,"WARNING: Combined in results: Village of Shorewood Wards 1,2,3,4, combined results: 3519",1180,1064,1199
+Village of Shorewood - Ward 4,73725,4,village of shorewood ward 4,"WARNING: Combined in results: Village of Shorewood Wards 1,2,3,4, combined results: 3519",1016,916,1032
+Village of Shorewood - Ward 5,73725,5,village of shorewood ward 5,"WARNING: Combined in results: Village of Shorewood Wards 5,6,7,8, combined results: 2944",920,829,929
+Village of Shorewood - Ward 6,73725,6,village of shorewood ward 6,"WARNING: Combined in results: Village of Shorewood Wards 5,6,7,8, combined results: 2944",631,568,637
+Village of Shorewood - Ward 7,73725,7,village of shorewood ward 7,"WARNING: Combined in results: Village of Shorewood Wards 5,6,7,8, combined results: 2944",958,864,968
+Village of Shorewood - Ward 8,73725,8,village of shorewood ward 8,"WARNING: Combined in results: Village of Shorewood Wards 5,6,7,8, combined results: 2944",757,683,765
+Village of Shorewood - Ward 9,73725,9,village of shorewood ward 9,"WARNING: Combined in results: Village of Shorewood Wards 9,10,11,12, combined results: 2853",862,785,872
+Village of West Milwaukee - Ward 1,85875,1,village of west milwaukee ward 1,"WARNING: Combined in results: Village of West Milwaukee Wards 1,2,5, combined results: 784",461,370,468
+Village of West Milwaukee - Ward 2,85875,2,village of west milwaukee ward 2,"WARNING: Combined in results: Village of West Milwaukee Wards 1,2,5, combined results: 784",223,179,226
+Village of West Milwaukee - Ward 3,85875,3,village of west milwaukee ward 3,"WARNING: Combined in results: Village of West Milwaukee Wards 3,4,6, combined results: 921",389,342,395
+Village of West Milwaukee - Ward 4,85875,4,village of west milwaukee ward 4,"WARNING: Combined in results: Village of West Milwaukee Wards 3,4,6, combined results: 921",372,327,378
+Village of West Milwaukee - Ward 5,85875,5,village of west milwaukee ward 5,"WARNING: Combined in results: Village of West Milwaukee Wards 1,2,5, combined results: 784",293,235,297
+Village of West Milwaukee - Ward 6,85875,6,village of west milwaukee ward 6,"WARNING: Combined in results: Village of West Milwaukee Wards 3,4,6, combined results: 921",287,252,291
+Village of Whitefish Bay - Ward 1,86700,1,village of whitefish bay ward 1,"WARNING: Combined in results: Village of Whitefish Bay Wards 1,2, combined results: 1630",989,920,993
+Village of Whitefish Bay - Ward 10,86700,10,village of whitefish bay ward 10,"WARNING: Combined in results: Village of Whitefish Bay Wards 8,10, combined results: 1847",1213,1103,1220
+Village of Whitefish Bay - Ward 11,86700,11,village of whitefish bay ward 11,"WARNING: Combined in results: Village of Whitefish Bay Wards 9,11, combined results: 1619",850,762,857
+Village of Whitefish Bay - Ward 12,86700,12,village of whitefish bay ward 12,,1068,998,1074
+Village of Whitefish Bay - Ward 2,86700,2,village of whitefish bay ward 2,"WARNING: Combined in results: Village of Whitefish Bay Wards 1,2, combined results: 1630",764,710,767
+Village of Whitefish Bay - Ward 3,86700,3,village of whitefish bay ward 3,"WARNING: Combined in results: Village of Whitefish Bay Wards 3,4, combined results: 1518",572,529,578
+Village of Whitefish Bay - Ward 4,86700,4,village of whitefish bay ward 4,"WARNING: Combined in results: Village of Whitefish Bay Wards 3,4, combined results: 1518",1070,989,1080
+Village of Whitefish Bay - Ward 5,86700,5,village of whitefish bay ward 5,"WARNING: Combined in results: Village of Whitefish Bay Wards 5,6, combined results: 1678",887,805,890
+Village of Whitefish Bay - Ward 6,86700,6,village of whitefish bay ward 6,"WARNING: Combined in results: Village of Whitefish Bay Wards 5,6, combined results: 1678",962,873,966
+Village of Whitefish Bay - Ward 7,86700,7,village of whitefish bay ward 7,,919,837,928
+Village of Whitefish Bay - Ward 8,86700,8,village of whitefish bay ward 8,"WARNING: Combined in results: Village of Whitefish Bay Wards 8,10, combined results: 1847",818,744,822
+Village of Whitefish Bay - Ward 9,86700,9,village of whitefish bay ward 9,"WARNING: Combined in results: Village of Whitefish Bay Wards 9,11, combined results: 1619",957,857,964
+City of Cudahy - Ward 1,17975,1,city of cudahy ward 1,"WARNING: Combined in results: City of Cudahy Wards 1,2,3, combined results: 1991",1131,979,1152
+City of Cudahy - Ward 10,17975,10,city of cudahy ward 10,"WARNING: Combined in results: City of Cudahy Wards 10,11,12, combined results: 1926",872,751,879
+City of Cudahy - Ward 11,17975,11,city of cudahy ward 11,"WARNING: Combined in results: City of Cudahy Wards 10,11,12, combined results: 1926",581,501,586
+City of Cudahy - Ward 12,17975,12,city of cudahy ward 12,"WARNING: Combined in results: City of Cudahy Wards 10,11,12, combined results: 1926",784,675,790
+City of Cudahy - Ward 13,17975,13,city of cudahy ward 13,"WARNING: Combined in results: City of Cudahy Wards 13,14,15, combined results: 2193",432,378,439
+City of Cudahy - Ward 14,17975,14,city of cudahy ward 14,"WARNING: Combined in results: City of Cudahy Wards 13,14,15, combined results: 2193",1084,947,1101
+City of Cudahy - Ward 15,17975,15,city of cudahy ward 15,"WARNING: Combined in results: City of Cudahy Wards 13,14,15, combined results: 2193",993,868,1009
+City of Cudahy - Ward 2,17975,2,city of cudahy ward 2,"WARNING: Combined in results: City of Cudahy Wards 1,2,3, combined results: 1991",518,448,527
+City of Cudahy - Ward 3,17975,3,city of cudahy ward 3,"WARNING: Combined in results: City of Cudahy Wards 1,2,3, combined results: 1991",651,564,663
+City of Cudahy - Ward 4,17975,4,city of cudahy ward 4,"WARNING: Combined in results: City of Cudahy Wards 4,5,6, combined results: 1821",620,540,635
+City of Cudahy - Ward 5,17975,5,city of cudahy ward 5,"WARNING: Combined in results: City of Cudahy Wards 4,5,6, combined results: 1821",778,677,796
+City of Cudahy - Ward 6,17975,6,city of cudahy ward 6,"WARNING: Combined in results: City of Cudahy Wards 4,5,6, combined results: 1821",694,604,710
+City of Cudahy - Ward 7,17975,7,city of cudahy ward 7,"WARNING: Combined in results: City of Cudahy Wards 7,8,9, combined results: 1600",710,593,726
+City of Cudahy - Ward 8,17975,8,city of cudahy ward 8,"WARNING: Combined in results: City of Cudahy Wards 7,8,9, combined results: 1600",535,447,547
+City of Cudahy - Ward 9,17975,9,city of cudahy ward 9,"WARNING: Combined in results: City of Cudahy Wards 7,8,9, combined results: 1600",670,560,685
+City of Franklin - Ward 1,27300,1,city of franklin ward 1,,2,1,2
+City of Franklin - Ward 10,27300,10,city of franklin ward 10,,472,447,471
+City of Franklin - Ward 11,27300,11,city of franklin ward 11,,1305,1212,1307
+City of Franklin - Ward 12,27300,12,city of franklin ward 12,,943,851,950
+City of Franklin - Ward 13,27300,13,city of franklin ward 13,,1275,1205,1295
+City of Franklin - Ward 14,27300,14,city of franklin ward 14,,1117,1035,1123
+City of Franklin - Ward 15A,27300,15A,city of franklin ward 15a,,621,543,631
+City of Franklin - Ward 15B,27300,15B,city of franklin ward 15b,,430,391,443
+City of Franklin - Ward 16,27300,16,city of franklin ward 16,,1337,1244,1353
+City of Franklin - Ward 17,27300,17,city of franklin ward 17,,809,759,820
+City of Franklin - Ward 18,27300,18,city of franklin ward 18,,498,472,509
+City of Franklin - Ward 19,27300,19,city of franklin ward 19,,1371,1281,1400
+City of Franklin - Ward 2,27300,2,city of franklin ward 2,,1616,1537,1630
+City of Franklin - Ward 20,27300,20,city of franklin ward 20,,714,677,728
+City of Franklin - Ward 21,27300,21,city of franklin ward 21,,352,312,361
+City of Franklin - Ward 22A,27300,22A,city of franklin ward 22a,,759,718,771
+City of Franklin - Ward 22B,27300,22B,city of franklin ward 22b,,702,680,713
+City of Franklin - Ward 23,27300,23,city of franklin ward 23,,1339,1279,1352
+City of Franklin - Ward 3,27300,3,city of franklin ward 3,,1715,1603,1726
+City of Franklin - Ward 4,27300,4,city of franklin ward 4,,892,799,904
+City of Franklin - Ward 5,27300,5,city of franklin ward 5,,692,661,697
+City of Franklin - Ward 6,27300,6,city of franklin ward 6,,1186,1098,1187
+City of Franklin - Ward 7,27300,7,city of franklin ward 7,,1499,1439,1523
+City of Franklin - Ward 8,27300,8,city of franklin ward 8,,1051,1007,1088
+City of Franklin - Ward 9,27300,9,city of franklin ward 9,,1084,1005,1106
+City of Glendale - Ward 1,29400,1,city of glendale ward 1,"WARNING: Combined in results: City of Glendale Wards 1,7, combined results: 1368",733,681,742
+City of Glendale - Ward 10,29400,10,city of glendale ward 10,"WARNING: Combined in results: City of Glendale Wards 4,10, combined results: 1661",865,804,878
+City of Glendale - Ward 11,29400,11,city of glendale ward 11,"WARNING: Combined in results: City of Glendale Wards 5,11, combined results: 1316",501,459,508
+City of Glendale - Ward 11S,29400,11S,city of glendale ward 11s,,334,279,350
+City of Glendale - Ward 12,29400,12,city of glendale ward 12,"WARNING: Combined in results: City of Glendale Wards 6,12, combined results: 1156",606,545,617
+City of Glendale - Ward 2,29400,2,city of glendale ward 2,"WARNING: Combined in results: City of Glendale Wards 2,8S, combined results: 937",931,841,942
+City of Glendale - Ward 3,29400,3,city of glendale ward 3,"WARNING: Combined in results: City of Glendale Wards 3,9, combined results: 1550",817,750,830
+City of Glendale - Ward 4,29400,4,city of glendale ward 4,"WARNING: Combined in results: City of Glendale Wards 4,10, combined results: 1661",924,857,937
+City of Glendale - Ward 5,29400,5,city of glendale ward 5,"WARNING: Combined in results: City of Glendale Wards 5,11, combined results: 1316",936,857,948
+City of Glendale - Ward 6,29400,6,city of glendale ward 6,"WARNING: Combined in results: City of Glendale Wards 6,12, combined results: 1156",679,611,691
+City of Glendale - Ward 7,29400,7,city of glendale ward 7,"WARNING: Combined in results: City of Glendale Wards 1,7, combined results: 1368",740,687,749
+City of Glendale - Ward 8,29400,8,city of glendale ward 8,,571,532,578
+City of Glendale - Ward 8S,29400,8S,city of glendale ward 8s,"WARNING: Combined in results: City of Glendale Wards 2,8S, combined results: 937",107,96,108
+City of Glendale - Ward 9,29400,9,city of glendale ward 9,"WARNING: Combined in results: City of Glendale Wards 3,9, combined results: 1550",871,800,885
+City of Greenfield - Ward 1,31175,1,city of greenfield ward 1,,1190,1037,1216
+City of Greenfield - Ward 10,31175,10,city of greenfield ward 10,,1238,1105,1251
+City of Greenfield - Ward 11,31175,11,city of greenfield ward 11,,1392,1328,1412
+City of Greenfield - Ward 12,31175,12,city of greenfield ward 12,,1469,1395,1507
+City of Greenfield - Ward 13,31175,13,city of greenfield ward 13,,723,677,755
+City of Greenfield - Ward 14,31175,14,city of greenfield ward 14,,1025,910,1063
+City of Greenfield - Ward 15,31175,15,city of greenfield ward 15,,1020,915,1045
+City of Greenfield - Ward 16,31175,16,city of greenfield ward 16,,454,385,459
+City of Greenfield - Ward 17,31175,17,city of greenfield ward 17,,909,816,939
+City of Greenfield - Ward 18,31175,18,city of greenfield ward 18,,975,890,988
+City of Greenfield - Ward 19,31175,19,city of greenfield ward 19,,1439,1300,1466
+City of Greenfield - Ward 2,31175,2,city of greenfield ward 2,,1023,903,1036
+City of Greenfield - Ward 20,31175,20,city of greenfield ward 20,,1522,1367,1543
+City of Greenfield - Ward 21,31175,21,city of greenfield ward 21,,974,840,989
+City of Greenfield - Ward 3,31175,3,city of greenfield ward 3,,999,853,1017
+City of Greenfield - Ward 4,31175,4,city of greenfield ward 4,,1014,833,1028
+City of Greenfield - Ward 5,31175,5,city of greenfield ward 5,,1136,976,1158
+City of Greenfield - Ward 6,31175,6,city of greenfield ward 6,,1105,997,1121
+City of Greenfield - Ward 7,31175,7,city of greenfield ward 7,,1442,1300,1462
+City of Greenfield - Ward 8,31175,8,city of greenfield ward 8,,1277,1129,1313
+City of Greenfield - Ward 9,31175,9,city of greenfield ward 9,,1178,1068,1191
+City of Milwaukee - Ward 1,53000,1,city of milwaukee ward 1,,1502,1185,1535
+City of Milwaukee - Ward 10,53000,10,city of milwaukee ward 10,,1447,1176,1452
+City of Milwaukee - Ward 100,53000,100,city of milwaukee ward 100,,801,620,805
+City of Milwaukee - Ward 101,53000,101,city of milwaukee ward 101,,1199,927,1210
+City of Milwaukee - Ward 102,53000,102,city of milwaukee ward 102,,1394,1135,1424
+City of Milwaukee - Ward 103,53000,103,city of milwaukee ward 103,,1726,1256,1743
+City of Milwaukee - Ward 104,53000,104,city of milwaukee ward 104,,1468,1019,1486
+City of Milwaukee - Ward 105,53000,105,city of milwaukee ward 105,,627,434,635
+City of Milwaukee - Ward 106,53000,106,city of milwaukee ward 106,,562,328,560
+City of Milwaukee - Ward 107,53000,107,city of milwaukee ward 107,,829,608,846
+City of Milwaukee - Ward 108,53000,108,city of milwaukee ward 108,,862,616,870
+City of Milwaukee - Ward 109,53000,109,city of milwaukee ward 109,,959,638,964
+City of Milwaukee - Ward 11,53000,11,city of milwaukee ward 11,,1298,1030,1310
+City of Milwaukee - Ward 110,53000,110,city of milwaukee ward 110,,540,341,544
+City of Milwaukee - Ward 111,53000,111,city of milwaukee ward 111,,760,483,763
+City of Milwaukee - Ward 112,53000,112,city of milwaukee ward 112,,858,602,860
+City of Milwaukee - Ward 113,53000,113,city of milwaukee ward 113,,732,511,735
+City of Milwaukee - Ward 114,53000,114,city of milwaukee ward 114,,671,495,669
+City of Milwaukee - Ward 115,53000,115,city of milwaukee ward 115,,1114,817,1121
+City of Milwaukee - Ward 116,53000,116,city of milwaukee ward 116,,611,410,613
+City of Milwaukee - Ward 117,53000,117,city of milwaukee ward 117,,712,483,712
+City of Milwaukee - Ward 118,53000,118,city of milwaukee ward 118,,807,572,812
+City of Milwaukee - Ward 119,53000,119,city of milwaukee ward 119,,831,574,837
+City of Milwaukee - Ward 12,53000,12,city of milwaukee ward 12,,1126,811,1123
+City of Milwaukee - Ward 120,53000,120,city of milwaukee ward 120,,738,473,740
+City of Milwaukee - Ward 121,53000,121,city of milwaukee ward 121,,918,655,934
+City of Milwaukee - Ward 122,53000,122,city of milwaukee ward 122,,1007,670,1012
+City of Milwaukee - Ward 123,53000,123,city of milwaukee ward 123,,1265,905,1273
+City of Milwaukee - Ward 124,53000,124,city of milwaukee ward 124,,793,608,806
+City of Milwaukee - Ward 125,53000,125,city of milwaukee ward 125,,1376,1150,1376
+City of Milwaukee - Ward 126,53000,126,city of milwaukee ward 126,,1065,908,1071
+City of Milwaukee - Ward 127,53000,127,city of milwaukee ward 127,,1499,1247,1524
+City of Milwaukee - Ward 128,53000,128,city of milwaukee ward 128,,1693,1319,1734
+City of Milwaukee - Ward 129,53000,129,city of milwaukee ward 129,,1174,989,1196
+City of Milwaukee - Ward 13,53000,13,city of milwaukee ward 13,,699,517,709
+City of Milwaukee - Ward 130,53000,130,city of milwaukee ward 130,,794,352,807
+City of Milwaukee - Ward 131,53000,131,city of milwaukee ward 131,,1306,1145,1323
+City of Milwaukee - Ward 132,53000,132,city of milwaukee ward 132,,1915,1637,1917
+City of Milwaukee - Ward 133,53000,133,city of milwaukee ward 133,,1085,830,1115
+City of Milwaukee - Ward 134,53000,134,city of milwaukee ward 134,,1150,910,1169
+City of Milwaukee - Ward 135,53000,135,city of milwaukee ward 135,,1529,1278,1560
+City of Milwaukee - Ward 136,53000,136,city of milwaukee ward 136,,1213,889,1228
+City of Milwaukee - Ward 137,53000,137,city of milwaukee ward 137,,841,659,842
+City of Milwaukee - Ward 138,53000,138,city of milwaukee ward 138,,2463,1942,2469
+City of Milwaukee - Ward 139,53000,139,city of milwaukee ward 139,,1726,1311,1730
+City of Milwaukee - Ward 14,53000,14,city of milwaukee ward 14,,1341,1012,1352
+City of Milwaukee - Ward 140,53000,140,city of milwaukee ward 140,,572,373,574
+City of Milwaukee - Ward 141,53000,141,city of milwaukee ward 141,,771,570,783
+City of Milwaukee - Ward 142,53000,142,city of milwaukee ward 142,,833,631,837
+City of Milwaukee - Ward 143,53000,143,city of milwaukee ward 143,,655,470,656
+City of Milwaukee - Ward 144,53000,144,city of milwaukee ward 144,,531,350,525
+City of Milwaukee - Ward 145,53000,145,city of milwaukee ward 145,,322,213,319
+City of Milwaukee - Ward 146,53000,146,city of milwaukee ward 146,,276,188,276
+City of Milwaukee - Ward 147,53000,147,city of milwaukee ward 147,,1119,730,1122
+City of Milwaukee - Ward 148,53000,148,city of milwaukee ward 148,,798,554,810
+City of Milwaukee - Ward 149,53000,149,city of milwaukee ward 149,,1008,675,1013
+City of Milwaukee - Ward 15,53000,15,city of milwaukee ward 15,,878,768,881
+City of Milwaukee - Ward 150,53000,150,city of milwaukee ward 150,,848,594,849
+City of Milwaukee - Ward 151,53000,151,city of milwaukee ward 151,,581,414,584
+City of Milwaukee - Ward 152,53000,152,city of milwaukee ward 152,,553,357,556
+City of Milwaukee - Ward 153,53000,153,city of milwaukee ward 153,,871,671,889
+City of Milwaukee - Ward 154,53000,154,city of milwaukee ward 154,,756,523,768
+City of Milwaukee - Ward 155,53000,155,city of milwaukee ward 155,,717,472,720
+City of Milwaukee - Ward 156,53000,156,city of milwaukee ward 156,,1027,697,1035
+City of Milwaukee - Ward 157,53000,157,city of milwaukee ward 157,,696,503,705
+City of Milwaukee - Ward 158,53000,158,city of milwaukee ward 158,,625,459,628
+City of Milwaukee - Ward 159,53000,159,city of milwaukee ward 159,,617,452,629
+City of Milwaukee - Ward 16,53000,16,city of milwaukee ward 16,,1768,1384,1778
+City of Milwaukee - Ward 160,53000,160,city of milwaukee ward 160,,772,554,778
+City of Milwaukee - Ward 161,53000,161,city of milwaukee ward 161,,248,190,253
+City of Milwaukee - Ward 162,53000,162,city of milwaukee ward 162,,509,349,507
+City of Milwaukee - Ward 163,53000,163,city of milwaukee ward 163,,873,617,878
+City of Milwaukee - Ward 164,53000,164,city of milwaukee ward 164,,1036,794,1048
+City of Milwaukee - Ward 165,53000,165,city of milwaukee ward 165,,1015,773,1020
+City of Milwaukee - Ward 166,53000,166,city of milwaukee ward 166,,401,318,403
+City of Milwaukee - Ward 167,53000,167,city of milwaukee ward 167,,980,815,982
+City of Milwaukee - Ward 168,53000,168,city of milwaukee ward 168,,1754,1503,1754
+City of Milwaukee - Ward 169,53000,169,city of milwaukee ward 169,,698,447,706
+City of Milwaukee - Ward 17,53000,17,city of milwaukee ward 17,,735,615,743
+City of Milwaukee - Ward 170,53000,170,city of milwaukee ward 170,,531,375,538
+City of Milwaukee - Ward 171,53000,171,city of milwaukee ward 171,,237,147,241
+City of Milwaukee - Ward 172,53000,172,city of milwaukee ward 172,,628,436,627
+City of Milwaukee - Ward 173,53000,173,city of milwaukee ward 173,,782,598,790
+City of Milwaukee - Ward 174,53000,174,city of milwaukee ward 174,,1122,833,1134
+City of Milwaukee - Ward 175,53000,175,city of milwaukee ward 175,,729,574,737
+City of Milwaukee - Ward 176,53000,176,city of milwaukee ward 176,,972,713,977
+City of Milwaukee - Ward 177,53000,177,city of milwaukee ward 177,,2673,2187,2685
+City of Milwaukee - Ward 178,53000,178,city of milwaukee ward 178,,2062,1732,2069
+City of Milwaukee - Ward 179,53000,179,city of milwaukee ward 179,,2013,1560,2007
+City of Milwaukee - Ward 18,53000,18,city of milwaukee ward 18,,1079,873,1092
+City of Milwaukee - Ward 180,53000,180,city of milwaukee ward 180,,1493,1190,1519
+City of Milwaukee - Ward 181,53000,181,city of milwaukee ward 181,,2012,1657,2009
+City of Milwaukee - Ward 182,53000,182,city of milwaukee ward 182,,2064,1628,2075
+City of Milwaukee - Ward 183,53000,183,city of milwaukee ward 183,,3071,2456,3109
+City of Milwaukee - Ward 184,53000,184,city of milwaukee ward 184,,1842,1509,1863
+City of Milwaukee - Ward 185,53000,185,city of milwaukee ward 185,,2603,2015,2619
+City of Milwaukee - Ward 186,53000,186,city of milwaukee ward 186,,3072,2544,3123
+City of Milwaukee - Ward 187,53000,187,city of milwaukee ward 187,,939,735,930
+City of Milwaukee - Ward 188,53000,188,city of milwaukee ward 188,,728,570,741
+City of Milwaukee - Ward 189,53000,189,city of milwaukee ward 189,,964,783,998
+City of Milwaukee - Ward 19,53000,19,city of milwaukee ward 19,,891,660,904
+City of Milwaukee - Ward 190,53000,190,city of milwaukee ward 190,,1448,918,1480
+City of Milwaukee - Ward 191,53000,191,city of milwaukee ward 191,,932,550,970
+City of Milwaukee - Ward 192,53000,192,city of milwaukee ward 192,,1307,829,1392
+City of Milwaukee - Ward 193,53000,193,city of milwaukee ward 193,,818,562,825
+City of Milwaukee - Ward 194,53000,194,city of milwaukee ward 194,,714,502,731
+City of Milwaukee - Ward 195,53000,195,city of milwaukee ward 195,,665,426,670
+City of Milwaukee - Ward 196,53000,196,city of milwaukee ward 196,,1065,723,1089
+City of Milwaukee - Ward 197,53000,197,city of milwaukee ward 197,,436,316,435
+City of Milwaukee - Ward 198,53000,198,city of milwaukee ward 198,,1087,618,1089
+City of Milwaukee - Ward 199,53000,199,city of milwaukee ward 199,,698,502,695
+City of Milwaukee - Ward 2,53000,2,city of milwaukee ward 2,,524,358,529
+City of Milwaukee - Ward 20,53000,20,city of milwaukee ward 20,,1122,901,1125
+City of Milwaukee - Ward 200,53000,200,city of milwaukee ward 200,,509,387,517
+City of Milwaukee - Ward 201,53000,201,city of milwaukee ward 201,,510,344,515
+City of Milwaukee - Ward 202,53000,202,city of milwaukee ward 202,,943,780,949
+City of Milwaukee - Ward 203,53000,203,city of milwaukee ward 203,,1176,1017,1180
+City of Milwaukee - Ward 204,53000,204,city of milwaukee ward 204,,1036,879,1040
+City of Milwaukee - Ward 205,53000,205,city of milwaukee ward 205,,922,793,919
+City of Milwaukee - Ward 206,53000,206,city of milwaukee ward 206,,736,655,734
+City of Milwaukee - Ward 207,53000,207,city of milwaukee ward 207,,865,730,864
+City of Milwaukee - Ward 208,53000,208,city of milwaukee ward 208,,988,835,984
+City of Milwaukee - Ward 209,53000,209,city of milwaukee ward 209,,865,763,865
+City of Milwaukee - Ward 21,53000,21,city of milwaukee ward 21,,1081,809,1081
+City of Milwaukee - Ward 210,53000,210,city of milwaukee ward 210,,818,691,834
+City of Milwaukee - Ward 211,53000,211,city of milwaukee ward 211,,933,771,938
+City of Milwaukee - Ward 212,53000,212,city of milwaukee ward 212,,1046,843,1052
+City of Milwaukee - Ward 213,53000,213,city of milwaukee ward 213,,1085,884,1082
+City of Milwaukee - Ward 214,53000,214,city of milwaukee ward 214,,532,441,531
+City of Milwaukee - Ward 215,53000,215,city of milwaukee ward 215,,512,383,513
+City of Milwaukee - Ward 216,53000,216,city of milwaukee ward 216,,448,314,449
+City of Milwaukee - Ward 217,53000,217,city of milwaukee ward 217,,861,686,869
+City of Milwaukee - Ward 218,53000,218,city of milwaukee ward 218,,977,736,977
+City of Milwaukee - Ward 219,53000,219,city of milwaukee ward 219,,658,511,662
+City of Milwaukee - Ward 22,53000,22,city of milwaukee ward 22,,991,707,986
+City of Milwaukee - Ward 220,53000,220,city of milwaukee ward 220,,696,525,700
+City of Milwaukee - Ward 221,53000,221,city of milwaukee ward 221,,1252,991,1263
+City of Milwaukee - Ward 222,53000,222,city of milwaukee ward 222,,843,597,855
+City of Milwaukee - Ward 223,53000,223,city of milwaukee ward 223,,893,666,895
+City of Milwaukee - Ward 224,53000,224,city of milwaukee ward 224,,713,472,722
+City of Milwaukee - Ward 225,53000,225,city of milwaukee ward 225,,675,461,679
+City of Milwaukee - Ward 226,53000,226,city of milwaukee ward 226,,386,252,390
+City of Milwaukee - Ward 227,53000,227,city of milwaukee ward 227,,990,715,990
+City of Milwaukee - Ward 228,53000,228,city of milwaukee ward 228,,553,366,551
+City of Milwaukee - Ward 229,53000,229,city of milwaukee ward 229,,534,340,536
+City of Milwaukee - Ward 23,53000,23,city of milwaukee ward 23,,450,303,451
+City of Milwaukee - Ward 230,53000,230,city of milwaukee ward 230,,879,592,885
+City of Milwaukee - Ward 231,53000,231,city of milwaukee ward 231,,423,273,427
+City of Milwaukee - Ward 232,53000,232,city of milwaukee ward 232,,350,230,348
+City of Milwaukee - Ward 233,53000,233,city of milwaukee ward 233,,301,206,302
+City of Milwaukee - Ward 234,53000,234,city of milwaukee ward 234,,688,588,703
+City of Milwaukee - Ward 235,53000,235,city of milwaukee ward 235,,2116,1768,2140
+City of Milwaukee - Ward 236,53000,236,city of milwaukee ward 236,,632,456,637
+City of Milwaukee - Ward 237,53000,237,city of milwaukee ward 237,,872,593,880
+City of Milwaukee - Ward 238,53000,238,city of milwaukee ward 238,,703,490,713
+City of Milwaukee - Ward 239,53000,239,city of milwaukee ward 239,,664,441,676
+City of Milwaukee - Ward 24,53000,24,city of milwaukee ward 24,,609,352,613
+City of Milwaukee - Ward 240,53000,240,city of milwaukee ward 240,,801,577,813
+City of Milwaukee - Ward 241,53000,241,city of milwaukee ward 241,,1554,1299,1567
+City of Milwaukee - Ward 242,53000,242,city of milwaukee ward 242,,1069,921,1076
+City of Milwaukee - Ward 243,53000,243,city of milwaukee ward 243,,1215,1085,1211
+City of Milwaukee - Ward 244,53000,244,city of milwaukee ward 244,,1006,862,1008
+City of Milwaukee - Ward 245,53000,245,city of milwaukee ward 245,,815,702,809
+City of Milwaukee - Ward 246,53000,246,city of milwaukee ward 246,,1454,1266,1450
+City of Milwaukee - Ward 247,53000,247,city of milwaukee ward 247,,762,636,760
+City of Milwaukee - Ward 248,53000,248,city of milwaukee ward 248,,1516,1262,1522
+City of Milwaukee - Ward 249,53000,249,city of milwaukee ward 249,,610,366,617
+City of Milwaukee - Ward 25,53000,25,city of milwaukee ward 25,,1004,695,1010
+City of Milwaukee - Ward 250,53000,250,city of milwaukee ward 250,,484,347,487
+City of Milwaukee - Ward 251,53000,251,city of milwaukee ward 251,,373,238,369
+City of Milwaukee - Ward 252,53000,252,city of milwaukee ward 252,,627,458,632
+City of Milwaukee - Ward 253,53000,253,city of milwaukee ward 253,,282,210,283
+City of Milwaukee - Ward 254,53000,254,city of milwaukee ward 254,,299,194,300
+City of Milwaukee - Ward 255,53000,255,city of milwaukee ward 255,,362,256,361
+City of Milwaukee - Ward 256,53000,256,city of milwaukee ward 256,,447,274,456
+City of Milwaukee - Ward 257,53000,257,city of milwaukee ward 257,,898,628,900
+City of Milwaukee - Ward 258,53000,258,city of milwaukee ward 258,,967,724,972
+City of Milwaukee - Ward 259,53000,259,city of milwaukee ward 259,,646,511,654
+City of Milwaukee - Ward 26,53000,26,city of milwaukee ward 26,,886,703,901
+City of Milwaukee - Ward 260,53000,260,city of milwaukee ward 260,,467,405,478
+City of Milwaukee - Ward 261,53000,261,city of milwaukee ward 261,,604,523,606
+City of Milwaukee - Ward 262,53000,262,city of milwaukee ward 262,,1243,1065,1247
+City of Milwaukee - Ward 263,53000,263,city of milwaukee ward 263,,710,579,715
+City of Milwaukee - Ward 264,53000,264,city of milwaukee ward 264,,1342,1185,1338
+City of Milwaukee - Ward 265,53000,265,city of milwaukee ward 265,,723,629,725
+City of Milwaukee - Ward 266,53000,266,city of milwaukee ward 266,,843,722,848
+City of Milwaukee - Ward 267,53000,267,city of milwaukee ward 267,,723,658,723
+City of Milwaukee - Ward 268,53000,268,city of milwaukee ward 268,,1658,1455,1667
+City of Milwaukee - Ward 269,53000,269,city of milwaukee ward 269,,978,861,983
+City of Milwaukee - Ward 27,53000,27,city of milwaukee ward 27,,800,625,804
+City of Milwaukee - Ward 270,53000,270,city of milwaukee ward 270,,931,801,932
+City of Milwaukee - Ward 271,53000,271,city of milwaukee ward 271,,1695,1476,1710
+City of Milwaukee - Ward 272,53000,272,city of milwaukee ward 272,,1190,1096,1188
+City of Milwaukee - Ward 273,53000,273,city of milwaukee ward 273,,671,612,676
+City of Milwaukee - Ward 274,53000,274,city of milwaukee ward 274,,702,611,700
+City of Milwaukee - Ward 275,53000,275,city of milwaukee ward 275,,1660,1425,1664
+City of Milwaukee - Ward 276,53000,276,city of milwaukee ward 276,,1431,1302,1437
+City of Milwaukee - Ward 277,53000,277,city of milwaukee ward 277,,1520,1321,1518
+City of Milwaukee - Ward 278,53000,278,city of milwaukee ward 278,,838,742,833
+City of Milwaukee - Ward 279,53000,279,city of milwaukee ward 279,,1172,1045,1167
+City of Milwaukee - Ward 28,53000,28,city of milwaukee ward 28,,353,236,360
+City of Milwaukee - Ward 280,53000,280,city of milwaukee ward 280,,1911,1634,1929
+City of Milwaukee - Ward 281,53000,281,city of milwaukee ward 281,,891,751,908
+City of Milwaukee - Ward 282,53000,282,city of milwaukee ward 282,,475,389,485
+City of Milwaukee - Ward 283,53000,283,city of milwaukee ward 283,,914,738,915
+City of Milwaukee - Ward 284,53000,284,city of milwaukee ward 284,,892,703,899
+City of Milwaukee - Ward 285,53000,285,city of milwaukee ward 285,,221,178,225
+City of Milwaukee - Ward 286,53000,286,city of milwaukee ward 286,,538,423,540
+City of Milwaukee - Ward 287,53000,287,city of milwaukee ward 287,,562,484,567
+City of Milwaukee - Ward 288,53000,288,city of milwaukee ward 288,,1264,1078,1261
+City of Milwaukee - Ward 289,53000,289,city of milwaukee ward 289,,780,640,784
+City of Milwaukee - Ward 29,53000,29,city of milwaukee ward 29,,460,338,469
+City of Milwaukee - Ward 290,53000,290,city of milwaukee ward 290,,699,556,705
+City of Milwaukee - Ward 291,53000,291,city of milwaukee ward 291,,668,530,674
+City of Milwaukee - Ward 292,53000,292,city of milwaukee ward 292,,747,632,749
+City of Milwaukee - Ward 293,53000,293,city of milwaukee ward 293,,903,792,902
+City of Milwaukee - Ward 294,53000,294,city of milwaukee ward 294,,696,623,708
+City of Milwaukee - Ward 295,53000,295,city of milwaukee ward 295,,890,751,902
+City of Milwaukee - Ward 296,53000,296,city of milwaukee ward 296,,1098,984,1109
+City of Milwaukee - Ward 297,53000,297,city of milwaukee ward 297,,993,850,997
+City of Milwaukee - Ward 298,53000,298,city of milwaukee ward 298,,827,724,829
+City of Milwaukee - Ward 299,53000,299,city of milwaukee ward 299,,1029,923,1037
+City of Milwaukee - Ward 3,53000,3,city of milwaukee ward 3,,1119,879,1134
+City of Milwaukee - Ward 30,53000,30,city of milwaukee ward 30,,950,659,958
+City of Milwaukee - Ward 300,53000,300,city of milwaukee ward 300,,1388,1218,1387
+City of Milwaukee - Ward 301,53000,301,city of milwaukee ward 301,,1314,1156,1313
+City of Milwaukee - Ward 302,53000,302,city of milwaukee ward 302,,906,793,909
+City of Milwaukee - Ward 303,53000,303,city of milwaukee ward 303,,1316,1173,1317
+City of Milwaukee - Ward 304,53000,304,city of milwaukee ward 304,,1089,931,1097
+City of Milwaukee - Ward 305,53000,305,city of milwaukee ward 305,,1101,936,1098
+City of Milwaukee - Ward 306,53000,306,city of milwaukee ward 306,,891,703,887
+City of Milwaukee - Ward 307,53000,307,city of milwaukee ward 307,,910,802,906
+City of Milwaukee - Ward 308,53000,308,city of milwaukee ward 308,,942,753,954
+City of Milwaukee - Ward 309,53000,309,city of milwaukee ward 309,,1298,1116,1297
+City of Milwaukee - Ward 31,53000,31,city of milwaukee ward 31,,866,665,876
+City of Milwaukee - Ward 310,53000,310,city of milwaukee ward 310,,448,358,457
+City of Milwaukee - Ward 311,53000,311,city of milwaukee ward 311,,785,663,789
+City of Milwaukee - Ward 312,53000,312,city of milwaukee ward 312,,1029,951,1029
+City of Milwaukee - Ward 313,53000,313,city of milwaukee ward 313,,2034,1747,2033
+City of Milwaukee - Ward 314,53000,314,city of milwaukee ward 314,,769,681,767
+City of Milwaukee - Ward 315,53000,315,city of milwaukee ward 315,,1510,919,1515
+City of Milwaukee - Ward 316,53000,316,city of milwaukee ward 316,,865,751,859
+City of Milwaukee - Ward 317,53000,317,city of milwaukee ward 317,,1019,906,1023
+City of Milwaukee - Ward 32,53000,32,city of milwaukee ward 32,,1857,1482,1889
+City of Milwaukee - Ward 320,53000,320,city of milwaukee ward 320,,59,41,58
+City of Milwaukee - Ward 321,53000,321,city of milwaukee ward 321,,296,206,299
+City of Milwaukee - Ward 322,53000,322,city of milwaukee ward 322,,166,123,164
+City of Milwaukee - Ward 323,53000,323,city of milwaukee ward 323,,363,262,366
+City of Milwaukee - Ward 324,53000,324,city of milwaukee ward 324,,175,111,176
+City of Milwaukee - Ward 325,53000,325,city of milwaukee ward 325,,477,381,480
+City of Milwaukee - Ward 326,53000,326,city of milwaukee ward 326,,4,5,4
+City of Milwaukee - Ward 33,53000,33,city of milwaukee ward 33,,2395,2043,2400
+City of Milwaukee - Ward 34,53000,34,city of milwaukee ward 34,,1426,1145,1445
+City of Milwaukee - Ward 35,53000,35,city of milwaukee ward 35,,1071,869,1082
+City of Milwaukee - Ward 36,53000,36,city of milwaukee ward 36,,978,796,978
+City of Milwaukee - Ward 37,53000,37,city of milwaukee ward 37,,965,657,967
+City of Milwaukee - Ward 38,53000,38,city of milwaukee ward 38,,749,538,761
+City of Milwaukee - Ward 39,53000,39,city of milwaukee ward 39,,885,682,888
+City of Milwaukee - Ward 4,53000,4,city of milwaukee ward 4,,1907,1473,1924
+City of Milwaukee - Ward 40,53000,40,city of milwaukee ward 40,,861,635,872
+City of Milwaukee - Ward 41,53000,41,city of milwaukee ward 41,,860,627,861
+City of Milwaukee - Ward 42,53000,42,city of milwaukee ward 42,,1145,890,1168
+City of Milwaukee - Ward 43,53000,43,city of milwaukee ward 43,,446,254,448
+City of Milwaukee - Ward 44,53000,44,city of milwaukee ward 44,,1152,902,1155
+City of Milwaukee - Ward 45,53000,45,city of milwaukee ward 45,,1185,871,1188
+City of Milwaukee - Ward 46,53000,46,city of milwaukee ward 46,,665,489,667
+City of Milwaukee - Ward 47,53000,47,city of milwaukee ward 47,,1135,849,1146
+City of Milwaukee - Ward 48,53000,48,city of milwaukee ward 48,,553,423,564
+City of Milwaukee - Ward 49,53000,49,city of milwaukee ward 49,,776,568,789
+City of Milwaukee - Ward 5,53000,5,city of milwaukee ward 5,,974,777,982
+City of Milwaukee - Ward 50,53000,50,city of milwaukee ward 50,,719,526,737
+City of Milwaukee - Ward 51,53000,51,city of milwaukee ward 51,,703,506,712
+City of Milwaukee - Ward 52,53000,52,city of milwaukee ward 52,,1049,700,1067
+City of Milwaukee - Ward 53,53000,53,city of milwaukee ward 53,,475,387,474
+City of Milwaukee - Ward 54,53000,54,city of milwaukee ward 54,,608,432,615
+City of Milwaukee - Ward 55,53000,55,city of milwaukee ward 55,,1312,1041,1318
+City of Milwaukee - Ward 56,53000,56,city of milwaukee ward 56,,823,650,845
+City of Milwaukee - Ward 57,53000,57,city of milwaukee ward 57,,1072,824,1090
+City of Milwaukee - Ward 58,53000,58,city of milwaukee ward 58,,788,640,808
+City of Milwaukee - Ward 59,53000,59,city of milwaukee ward 59,,1550,1172,1549
+City of Milwaukee - Ward 6,53000,6,city of milwaukee ward 6,,2157,1777,2184
+City of Milwaukee - Ward 60,53000,60,city of milwaukee ward 60,,1071,765,1089
+City of Milwaukee - Ward 61,53000,61,city of milwaukee ward 61,,943,674,950
+City of Milwaukee - Ward 62,53000,62,city of milwaukee ward 62,,782,544,791
+City of Milwaukee - Ward 63,53000,63,city of milwaukee ward 63,,740,537,757
+City of Milwaukee - Ward 64,53000,64,city of milwaukee ward 64,,1600,1203,1632
+City of Milwaukee - Ward 65,53000,65,city of milwaukee ward 65,,1233,981,1242
+City of Milwaukee - Ward 66,53000,66,city of milwaukee ward 66,,775,568,782
+City of Milwaukee - Ward 67,53000,67,city of milwaukee ward 67,,707,525,720
+City of Milwaukee - Ward 68,53000,68,city of milwaukee ward 68,,1299,978,1314
+City of Milwaukee - Ward 69,53000,69,city of milwaukee ward 69,,1033,800,1047
+City of Milwaukee - Ward 7,53000,7,city of milwaukee ward 7,,745,562,751
+City of Milwaukee - Ward 70,53000,70,city of milwaukee ward 70,,1466,1147,1490
+City of Milwaukee - Ward 71,53000,71,city of milwaukee ward 71,,838,671,849
+City of Milwaukee - Ward 72,53000,72,city of milwaukee ward 72,,1125,923,1150
+City of Milwaukee - Ward 73,53000,73,city of milwaukee ward 73,,1245,980,1256
+City of Milwaukee - Ward 74,53000,74,city of milwaukee ward 74,,785,665,794
+City of Milwaukee - Ward 75,53000,75,city of milwaukee ward 75,,855,688,865
+City of Milwaukee - Ward 76,53000,76,city of milwaukee ward 76,,851,664,855
+City of Milwaukee - Ward 77,53000,77,city of milwaukee ward 77,,761,621,781
+City of Milwaukee - Ward 78,53000,78,city of milwaukee ward 78,,1321,1044,1334
+City of Milwaukee - Ward 79,53000,79,city of milwaukee ward 79,,1350,1111,1359
+City of Milwaukee - Ward 8,53000,8,city of milwaukee ward 8,,1765,1484,1767
+City of Milwaukee - Ward 80,53000,80,city of milwaukee ward 80,,1790,1478,1806
+City of Milwaukee - Ward 81,53000,81,city of milwaukee ward 81,,740,636,742
+City of Milwaukee - Ward 82,53000,82,city of milwaukee ward 82,,945,845,943
+City of Milwaukee - Ward 83,53000,83,city of milwaukee ward 83,,1157,1011,1159
+City of Milwaukee - Ward 84,53000,84,city of milwaukee ward 84,,826,711,826
+City of Milwaukee - Ward 85,53000,85,city of milwaukee ward 85,,1109,948,1105
+City of Milwaukee - Ward 86,53000,86,city of milwaukee ward 86,,1065,927,1065
+City of Milwaukee - Ward 87,53000,87,city of milwaukee ward 87,,689,594,692
+City of Milwaukee - Ward 88,53000,88,city of milwaukee ward 88,,928,804,934
+City of Milwaukee - Ward 89,53000,89,city of milwaukee ward 89,,1175,1012,1186
+City of Milwaukee - Ward 9,53000,9,city of milwaukee ward 9,,876,752,884
+City of Milwaukee - Ward 90,53000,90,city of milwaukee ward 90,,1135,966,1152
+City of Milwaukee - Ward 91,53000,91,city of milwaukee ward 91,,1650,1289,1661
+City of Milwaukee - Ward 92,53000,92,city of milwaukee ward 92,,1606,1346,1610
+City of Milwaukee - Ward 93,53000,93,city of milwaukee ward 93,,765,678,768
+City of Milwaukee - Ward 94,53000,94,city of milwaukee ward 94,,609,446,630
+City of Milwaukee - Ward 95,53000,95,city of milwaukee ward 95,,664,543,676
+City of Milwaukee - Ward 96,53000,96,city of milwaukee ward 96,,1201,977,1217
+City of Milwaukee - Ward 97,53000,97,city of milwaukee ward 97,,1144,937,1166
+City of Milwaukee - Ward 98,53000,98,city of milwaukee ward 98,,803,663,813
+City of Milwaukee - Ward 99,53000,99,city of milwaukee ward 99,,1291,1042,1312
+City of Oak Creek - Ward 1,58800,1,city of oak creek ward 1,"WARNING: Combined in results: City of Oak Creek Wards 1,2,3, combined results: 3533",1061,1000,1083
+City of Oak Creek - Ward 10,58800,10,city of oak creek ward 10,"WARNING: Combined in results: City of Oak Creek Wards 10,11,12, combined results: 3770",1320,1230,1339
+City of Oak Creek - Ward 11,58800,11,city of oak creek ward 11,"WARNING: Combined in results: City of Oak Creek Wards 10,11,12, combined results: 3770",1435,1338,1456
+City of Oak Creek - Ward 12,58800,12,city of oak creek ward 12,"WARNING: Combined in results: City of Oak Creek Wards 10,11,12, combined results: 3770",1290,1202,1309
+City of Oak Creek - Ward 13,58800,13,city of oak creek ward 13,"WARNING: Combined in results: City of Oak Creek Wards 13,14,15, combined results: 3670",1172,1109,1187
+City of Oak Creek - Ward 14,58800,14,city of oak creek ward 14,"WARNING: Combined in results: City of Oak Creek Wards 13,14,15, combined results: 3670",1424,1348,1443
+City of Oak Creek - Ward 15,58800,15,city of oak creek ward 15,"WARNING: Combined in results: City of Oak Creek Wards 13,14,15, combined results: 3670",1282,1213,1299
+City of Oak Creek - Ward 16,58800,16,city of oak creek ward 16,"WARNING: Combined in results: City of Oak Creek Wards 16,17,18,19, combined results: 2934",903,812,917
+City of Oak Creek - Ward 17,58800,17,city of oak creek ward 17,"WARNING: Combined in results: City of Oak Creek Wards 16,17,18,19, combined results: 2934",618,556,628
+City of Oak Creek - Ward 18,58800,18,city of oak creek ward 18,"WARNING: Combined in results: City of Oak Creek Wards 16,17,18,19, combined results: 2934",512,460,520
+City Of Oak Creek - Ward 19,58800,19,city of oak creek ward 19,"WARNING: Combined in results: City of Oak Creek Wards 16,17,18,19, combined results: 2934",1229,1106,1249
+City of Oak Creek - Ward 2,58800,2,city of oak creek ward 2,"WARNING: Combined in results: City of Oak Creek Wards 1,2,3, combined results: 3533",1356,1278,1384
+City of Oak Creek - Ward 3,58800,3,city of oak creek ward 3,"WARNING: Combined in results: City of Oak Creek Wards 1,2,3, combined results: 3533",1331,1255,1359
+City of Oak Creek - Ward 4,58800,4,city of oak creek ward 4,"WARNING: Combined in results: City of Oak Creek Wards 4,5,6, combined results: 3463",1474,1374,1519
+City of Oak Creek - Ward 5,58800,5,city of oak creek ward 5,"WARNING: Combined in results: City of Oak Creek Wards 4,5,6, combined results: 3463",1012,944,1043
+City of Oak Creek - Ward 6,58800,6,city of oak creek ward 6,"WARNING: Combined in results: City of Oak Creek Wards 4,5,6, combined results: 3463",1228,1145,1266
+City of Oak Creek - Ward 7,58800,7,city of oak creek ward 7,"WARNING: Combined in results: City of Oak Creek Wards 7,8,9, combined results: 3470",1037,970,1055
+City of Oak Creek - Ward 8,58800,8,city of oak creek ward 8,"WARNING: Combined in results: City of Oak Creek Wards 7,8,9, combined results: 3470",1282,1200,1305
+City of Oak Creek - Ward 9,58800,9,city of oak creek ward 9,"WARNING: Combined in results: City of Oak Creek Wards 7,8,9, combined results: 3470",1389,1300,1414
+City of St. Francis - Ward 1,70650,1,city of st francis ward 1,"WARNING: Combined in results: City of St. Francis Wards 9,10,11,1, combined results: 2209",494,459,494
+City of St. Francis - Ward 10,70650,10,city of st francis ward 10,"WARNING: Combined in results: City of St. Francis Wards 9,10,11,1, combined results: 2209",692,642,691
+City of St. Francis - Ward 11,70650,11,city of st francis ward 11,"WARNING: Combined in results: City of St. Francis Wards 9,10,11,1, combined results: 2209",559,519,559
+City of St. Francis - Ward 12,70650,12,city of st francis ward 12,Not reported in results,,,546
+City of St. Francis - Ward 2,70650,2,city of st francis ward 2,"WARNING: Combined in results: City of St. Francis Wards 1,2,3,4, combined results: 1693",474,420,481
+City of St. Francis - Ward 3,70650,3,city of st francis ward 3,"WARNING: Combined in results: City of St. Francis Wards 1,2,3,4, combined results: 1693",449,398,456
+City of St. Francis - Ward 4,70650,4,city of st francis ward 4,"WARNING: Combined in results: City of St. Francis Wards 1,2,3,4, combined results: 1693",502,444,509
+City of St. Francis - Ward 5,70650,5,city of st francis ward 5,"WARNING: Combined in results: City of St. Francis Wards 5,6,7,8, combined results: 1823",571,521,576
+City of St. Francis - Ward 6,70650,6,city of st francis ward 6,"WARNING: Combined in results: City of St. Francis Wards 5,6,7,8, combined results: 1823",405,369,408
+City of St. Francis - Ward 7,70650,7,city of st francis ward 7,"WARNING: Combined in results: City of St. Francis Wards 5,6,7,8, combined results: 1823",443,404,447
+City of St. Francis - Ward 8,70650,8,city of st francis ward 8,"WARNING: Combined in results: City of St. Francis Wards 5,6,7,8, combined results: 1823",580,529,585
+City of St. Francis - Ward 9,70650,9,city of st francis ward 9,"WARNING: Combined in results: City of St. Francis Wards 9,10,11,1, combined results: 2209",636,590,635
+City of South Milwaukee - Ward 1,75125,1,city of south milwaukee ward 1,"WARNING: Combined in results: City of South Milwaukee Wards 1,2,3,4, combined results: 2830",898,825,913
+City of South Milwaukee - Ward 10,75125,10,city of south milwaukee ward 10,"WARNING: Combined in results: City of South Milwaukee Wards 9,10,11,12, combined results: 3159",802,742,815
+City of South Milwaukee - Ward 11,75125,11,city of south milwaukee ward 11,"WARNING: Combined in results: City of South Milwaukee Wards 9,10,11,12, combined results: 3159",1005,929,1021
+City of South Milwaukee - Ward 12,75125,12,city of south milwaukee ward 12,"WARNING: Combined in results: City of South Milwaukee Wards 9,10,11,12, combined results: 3159",824,762,837
+City of South Milwaukee - Ward 13,75125,13,city of south milwaukee ward 13,"WARNING: Combined in results: City of South Milwaukee Wards 13,14,15,16, combined results: 2766",643,579,655
+City of South Milwaukee - Ward 14,75125,14,city of south milwaukee ward 14,"WARNING: Combined in results: City of South Milwaukee Wards 13,14,15,16, combined results: 2766",717,646,730
+City of South Milwaukee - Ward 15,75125,15,city of south milwaukee ward 15,"WARNING: Combined in results: City of South Milwaukee Wards 13,14,15,16, combined results: 2766",894,805,910
+City of South Milwaukee - Ward 16,75125,16,city of south milwaukee ward 16,"WARNING: Combined in results: City of South Milwaukee Wards 13,14,15,16, combined results: 2766",818,737,833
+City of South Milwaukee - Ward 2,75125,2,city of south milwaukee ward 2,"WARNING: Combined in results: City of South Milwaukee Wards 1,2,3,4, combined results: 2830",759,697,771
+City of South Milwaukee - Ward 3,75125,3,city of south milwaukee ward 3,"WARNING: Combined in results: City of South Milwaukee Wards 1,2,3,4, combined results: 2830",733,674,745
+City of South Milwaukee - Ward 4,75125,4,city of south milwaukee ward 4,"WARNING: Combined in results: City of South Milwaukee Wards 1,2,3,4, combined results: 2830",690,634,701
+City of South Milwaukee - Ward 5,75125,5,city of south milwaukee ward 5,"WARNING: Combined in results: City of South Milwaukee Wards 5,6,7,8, combined results: 2471",653,583,665
+City of South Milwaukee - Ward 6,75125,6,city of south milwaukee ward 6,"WARNING: Combined in results: City of South Milwaukee Wards 5,6,7,8, combined results: 2471",815,728,831
+City of South Milwaukee - Ward 7,75125,7,city of south milwaukee ward 7,"WARNING: Combined in results: City of South Milwaukee Wards 5,6,7,8, combined results: 2471",563,503,574
+City of South Milwaukee - Ward 8,75125,8,city of south milwaukee ward 8,"WARNING: Combined in results: City of South Milwaukee Wards 5,6,7,8, combined results: 2471",736,657,750
+City of South Milwaukee - Ward 9,75125,9,city of south milwaukee ward 9,"WARNING: Combined in results: City of South Milwaukee Wards 9,10,11,12, combined results: 3159",787,727,799
+City of Wauwatosa - Ward 1,84675,1,city of wauwatosa ward 1,,1418,1314,1433
+City of Wauwatosa - Ward 10,84675,10,city of wauwatosa ward 10,,1555,1427,1597
+City of Wauwatosa - Ward 11,84675,11,city of wauwatosa ward 11,,1485,1339,1496
+City of Wauwatosa - Ward 12,84675,12,city of wauwatosa ward 12,,1710,1586,1713
+City of Wauwatosa - Ward 13,84675,13,city of wauwatosa ward 13,,821,738,825
+City of Wauwatosa - Ward 14,84675,14,city of wauwatosa ward 14,,1540,1388,1550
+City of Wauwatosa - Ward 15,84675,15,city of wauwatosa ward 15,,1631,1490,1645
+City of Wauwatosa - Ward 16,84675,16,city of wauwatosa ward 16,,1714,1595,1729
+City of Wauwatosa - Ward 17,84675,17,city of wauwatosa ward 17,,1454,1357,1466
+City of Wauwatosa - Ward 18,84675,18,city of wauwatosa ward 18,,1283,1138,1306
+City of Wauwatosa - Ward 19,84675,19,city of wauwatosa ward 19,,1435,1317,1450
+City of Wauwatosa - Ward 2,84675,2,city of wauwatosa ward 2,,1451,1328,1466
+City of Wauwatosa - Ward 20,84675,20,city of wauwatosa ward 20,,1886,1721,1913
+City of Wauwatosa - Ward 21,84675,21,city of wauwatosa ward 21,,1295,1170,1307
+City of Wauwatosa - Ward 22,84675,22,city of wauwatosa ward 22,,1457,1382,1486
+City of Wauwatosa - Ward 23,84675,23,city of wauwatosa ward 23,,1333,1219,1338
+City of Wauwatosa - Ward 24,84675,24,city of wauwatosa ward 24,,1213,1063,1220
+City of Wauwatosa - Ward 3,84675,3,city of wauwatosa ward 3,,1572,1407,1579
+City of Wauwatosa - Ward 4,84675,4,city of wauwatosa ward 4,,2060,1900,2084
+City of Wauwatosa - Ward 5,84675,5,city of wauwatosa ward 5,,1260,1101,1289
+City of Wauwatosa - Ward 6,84675,6,city of wauwatosa ward 6,,1158,1027,1173
+City of Wauwatosa - Ward 7,84675,7,city of wauwatosa ward 7,,1716,1566,1724
+City of Wauwatosa - Ward 8,84675,8,city of wauwatosa ward 8,,824,699,837
+City of Wauwatosa - Ward 9,84675,9,city of wauwatosa ward 9,,1624,1448,1638
+City of West Allis - Ward 1,85300,1,city of west allis ward 1,,1097,878,1118
+City of West Allis - Ward 10,85300,10,city of west allis ward 10,,1365,1109,1386
+City of West Allis - Ward 11,85300,11,city of west allis ward 11,,1622,1406,1644
+City of West Allis - Ward 12,85300,12,city of west allis ward 12,,1456,1267,1464
+City of West Allis - Ward 13,85300,13,city of west allis ward 13,,1904,1719,1915
+City of West Allis - Ward 14,85300,14,city of west allis ward 14,,1140,910,1153
+City of West Allis - Ward 15,85300,15,city of west allis ward 15,,1195,988,1212
+City of West Allis - Ward 16,85300,16,city of west allis ward 16,,1167,1000,1187
+City of West Allis - Ward 17,85300,17,city of west allis ward 17,,1574,1350,1592
+City of West Allis - Ward 18,85300,18,city of west allis ward 18,,1811,1556,1827
+City of West Allis - Ward 19,85300,19,city of west allis ward 19,,1646,1418,1671
+City of West Allis - Ward 2,85300,2,city of west allis ward 2,,1475,1223,1521
+City of West Allis - Ward 20,85300,20,city of west allis ward 20,,1172,1028,1196
+City of West Allis - Ward 21,85300,21,city of west allis ward 21,,1504,1279,1525
+City of West Allis - Ward 22,85300,22,city of west allis ward 22,,1231,992,1233
+City of West Allis - Ward 23,85300,23,city of west allis ward 23,,1648,1441,1667
+City of West Allis - Ward 24,85300,24,city of west allis ward 24,,1096,924,1109
+City of West Allis - Ward 25,85300,25,city of west allis ward 25,,1517,1372,1534
+City of West Allis - Ward 3,85300,3,city of west allis ward 3,,1039,829,1051
+City of West Allis - Ward 4,85300,4,city of west allis ward 4,,1476,1226,1490
+City of West Allis - Ward 5,85300,5,city of west allis ward 5,,1209,1001,1221
+City of West Allis - Ward 6,85300,6,city of west allis ward 6,,1173,922,1183
+City of West Allis - Ward 7,85300,7,city of west allis ward 7,,1414,1180,1464
+City of West Allis - Ward 8,85300,8,city of west allis ward 8,,1183,932,1183
+City of West Allis - Ward 9,85300,9,city of west allis ward 9,,1541,1285,1571
